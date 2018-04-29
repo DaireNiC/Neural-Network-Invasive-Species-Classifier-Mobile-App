@@ -1,5 +1,5 @@
 **/*.pyc
-tf_files
+tf_files/plant_photos
 .idea/
 **/*~
 gradle*
