@@ -16,7 +16,7 @@ args = vars(ap.parse_args())
 # set your Microsoft Cognitive Services API key along with (1) the
 # maximum number of results for a given search and (2) the group size
 # for results (maximum of 50 per request)
-API_KEY = "23c8bbf96eb249e1830c1a9607f2de1a"
+API_KEY = ""
 MAX_RESULTS = 1000
 GROUP_SIZE = 50
 
