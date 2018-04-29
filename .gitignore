@@ -1,11 +1,8 @@
 **/*.pyc
-#tf_files
 .idea/
-#**/*~
 gradle*
 libs/
 local.properties
 android.iml
 .gradle/
-tf_files/plant_photos
 android/assets/*
