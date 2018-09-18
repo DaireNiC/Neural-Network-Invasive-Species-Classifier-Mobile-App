@@ -25,6 +25,7 @@ The application will contain a clear guide on identifying invasive species. It w
  
  ### Identification using Aritificial Intelligence
  If a user is unsure in the identification of a species they will have the option to use the **Species Classifier**. 
+ 
 ### Species Classifier
 The species classifier is a Deep Neural Network running Google's MobileNet model. Transfer Learning using Tensorflow was applied to retrain this model to classify invasive species. 
 
